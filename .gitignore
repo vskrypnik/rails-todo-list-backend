@@ -1,0 +1,8 @@
+/log
+/tmp
+
+!/log/.keep
+!/tmp/.keep
+
+.ruby-gemset
+.ruby-version
